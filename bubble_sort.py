@@ -1,6 +1,5 @@
-
+# Implementation of Bubble Sort
 def bubble_sort(arr):
-    """Bubble Sort Algorithm"""
     n = len(arr)
     for i in range(n):
         swapped = False
@@ -11,3 +10,8 @@ def bubble_sort(arr):
         if not swapped:
             break  # Optimization: Stop if no swaps occurred in this pass
     return arr
+
+# Example usage:
+arr = [64, 34, 25, 12, 22, 11, 90]
+sorted_arr = bubble_sort(arr)
+print(sorted_arr)

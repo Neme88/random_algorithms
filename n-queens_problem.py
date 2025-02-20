@@ -24,3 +24,11 @@ def solve_n_queens(n):
 
     place_queen(0)
     return solutions
+
+# Example usage:
+n = 4
+solutions = solve_n_queens(n)
+for sol in solutions:
+    for row in sol:
+        print(". " * row + "Q " + ". " * (n - row - 1))
+    print("\n")

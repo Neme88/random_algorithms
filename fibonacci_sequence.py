@@ -6,3 +6,6 @@ def fibonacci(n):
         return n
     return fibonacci(n - 1) + fibonacci(n - 2)
 
+if __name__ == "__main__":
+     # Test O(2^N)
+    print(fibonacci(10))  # Output: 55

@@ -1,3 +1,4 @@
+# Single if statment logic implementation
 age = 20
 
 if age >= 18:

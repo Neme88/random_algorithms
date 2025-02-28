@@ -1,3 +1,5 @@
+# if else logic implementation 
+
 temperature = 15
 
 if temperature > 20:

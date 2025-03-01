@@ -1,3 +1,5 @@
+# implemented multiple if statement logic
+
 num = 15
 
 if num % 3 == 0:

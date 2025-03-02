@@ -12,3 +12,17 @@ This repository contains a collection of various algorithm implementations in Py
 This collection is designed to help learners understand different algorithmic paradigms and how they can be used in real-world applications.
 
 ---
+
+## 📂 Project Structure
+```
+📦 random-algorithms-repo
+ ┣ 📜 README.md
+ ┣ 📂 algorithms
+ ┃ ┣ 📜 if_statements.py
+ ┃ ┣ 📜 dynamic_programming.py
+ ┃ ┣ 📜 greedy_algorithms.py
+ ┃ ┣ 📜 heap_algorithm.py
+ ┃ ┣ 📜 fibonacci.py
+ ┃ ┗ 📜 factorial.py
+```
+

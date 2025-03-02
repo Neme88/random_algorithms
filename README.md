@@ -25,4 +25,17 @@ This collection is designed to help learners understand different algorithmic pa
  ┃ ┣ 📜 fibonacci.py
  ┃ ┗ 📜 factorial.py
 ```
+## 🔧 Setup & Usage
+### 🔹 Clone the Repository
+```bash
+git clone https://github.com/yourusername/random-algorithms.git
+cd random-algorithms
+```
 
+### 🔹 Run Python Scripts
+To execute an algorithm, run the respective script. For example:
+```bash
+python algorithms/fibonacci.py
+```
+
+---

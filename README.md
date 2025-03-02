@@ -39,3 +39,27 @@ python algorithms/fibonacci.py
 ```
 
 ---
+
+## 📜 Implemented Algorithms
+### ✅ **1. If Statements Implementation**
+- Single `if`
+- `if-else`
+- `if-elif-else`
+- Multiple `if` conditions
+
+📌 Check out: [`if_statements.py`](algorithms/if_statements.py)
+
+### ✅ **2. Dynamic Programming**
+- Fibonacci using **Memoization**
+- Fibonacci using **Bottom-Up Approach**
+- **Knapsack Problem**
+
+📌 Check out: [`dynamic_programming.py`](algorithms/dynamic_programming.py)
+
+### ✅ **3. Greedy Algorithm Implementation**
+- **Activity Selection Problem**
+- **Fractional Knapsack**
+- **Huffman Encoding**
+
+📌 Check out: [`greedy_algorithms.py`](algorithms/greedy_algorithms.py)
+

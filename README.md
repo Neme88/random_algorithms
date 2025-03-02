@@ -1,4 +1,14 @@
-# random_algorithms
-This repo is dedicated for the sole purpose of random algorithms implementation in no particular order, think of it as rough idea pan if you will.
+# 🚀 Random Algorithms Repository
 
-Included files for quick_sort.py, bubble_sort.py, merge_sort.py, selection_sort.py. implementation. 
+## 📌 Overview
+This repository contains a collection of various algorithm implementations in Python, including:
+- Different **if statement** implementations
+- **Dynamic Programming** solutions
+- **Greedy Algorithms**
+- **Heap Algorithm** (for permutations)
+- **Fibonacci Sequence** (Recursive & Dynamic Programming)
+- **Factorial Algorithm** (Recursive & Iterative)
+
+This collection is designed to help learners understand different algorithmic paradigms and how they can be used in real-world applications.
+
+---

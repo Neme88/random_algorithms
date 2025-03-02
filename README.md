@@ -62,4 +62,22 @@ python algorithms/fibonacci.py
 - **Huffman Encoding**
 
 📌 Check out: [`greedy_algorithms.py`](algorithms/greedy_algorithms.py)
+### ✅ **4. Heap Algorithm (Permutations)**
+- Generates all possible **permutations** of a given list.
 
+📌 Check out: [`heap_algorithm.py`](algorithms/heap_algorithm.py)
+
+### ✅ **5. Fibonacci Algorithm**
+- **Recursive** implementation
+- **Iterative** implementation
+- **Dynamic Programming** implementation
+
+📌 Check out: [`fibonacci.py`](algorithms/fibonacci.py)
+
+### ✅ **6. Factorial Algorithm**
+- **Recursive** implementation
+- **Iterative** implementation
+
+📌 Check out: [`factorial.py`](algorithms/factorial.py)
+
+---

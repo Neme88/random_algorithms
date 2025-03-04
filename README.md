@@ -74,7 +74,6 @@ python algorithms/fibonacci.py
 
 📌 Check out: [`fibonacci.py`](algorithms/fibonacci.py)
 
-
 ---
 ## 🤝 Contributing
 Feel free to **fork** this repository and submit **pull requests**! If you have suggestions for more algorithms, open an **issue**.

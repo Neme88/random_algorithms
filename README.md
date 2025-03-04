@@ -74,11 +74,6 @@ python algorithms/fibonacci.py
 
 📌 Check out: [`fibonacci.py`](algorithms/fibonacci.py)
 
-### ✅ **6. Factorial Algorithm**
-- **Recursive** implementation
-- **Iterative** implementation
-
-📌 Check out: [`factorial.py`](algorithms/factorial.py)
 
 ---
 ## 🤝 Contributing

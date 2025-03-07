@@ -1,3 +1,4 @@
+# quick sort algorithm implementation
 def quick_sort(arr):
     """Quick Sort Algorithm"""
     if len(arr) <= 1:
